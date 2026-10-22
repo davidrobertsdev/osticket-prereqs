@@ -1,3 +1,33 @@
+<img width="857" height="466" alt="Screenshot 2026-10-22 at 1 02 46 PM" src="https://github.com/user-attachments/assets/87b5fe36-7d99-4e77-bbac-b9bf5fec50fa" />
+
+<img width="1181" height="738" alt="Screenshot 2026-10-22 at 2 22 11 PM" src="https://github.com/user-attachments/assets/f5351427-2fd2-41c3-8fef-1960886cbfc7" />
+<img width="1440" height="900" alt="Screenshot 2026-10-22 at 1 02 09 PM" src="https://github.com/user-attachments/assets/ea04e3c2-5567-4cc1-948b-d858756bf1ee" />
+<img width="751" height="463" alt="Screenshot 2026-10-22 at 2 31 00 PM" src="https://github.com/user-attachments/assets/d4400cc6-131c-40c0-a1fe-ad9c39ea497f" />
+<img width="1405" height="765" alt="Screenshot 2026-10-22 at 2 46 05 PM" src="https://github.com/user-attachments/assets/2df04725-eb5d-4806-969d-a94e50e68e5c" /><img width="1440" height="900" alt="Screenshot 2026-10-22 at 2 42 59 PM" src="https://github.com/user-attachments/assets/0e119792-b70c-4e54-92f8-8579587ae9a2" />
+<img width="987" height="265" alt="Screenshot 2026-10-22 at 4 41 53 PM" src="https://github.com/user-attachments/assets/1256e665-b1d4-4394-b0e7-0c79f2eb46cf" />
+<img width="957" height="631" alt="Screenshot 2026-10-22 at 5 42 06 PM" src="https://github.com/user-attachments/assets/d776580d-7101-4c0c-9184-b91f2114fd2d" />
+<img width="1440" height="900" alt="Screenshot 2026-10-22 at 1 02 38 PM" src="https://github.com/user-attachments/assets/53c3524b-ba0a-4ce5-8250-1ed2cadc5d2f" />
+
+<img width="594" height="461" alt="Screenshot 2026-10-22 at 2 34 44 PM" src="https://github.com/user-attachments/assets/dbf4447c-c8de-4d26-9d35-994c55889e87" />
+<img width="1440" height="900" alt="Screenshot 2026-10-22 at 12 51 36 PM" src="https://github.com/user-attachments/assets/98a82402-37b0-4a28-9a5a-5c2120f67287" />
+<img width="957" height="163" alt="Screenshot 2026-10-22 at 12 51 47 PM" src="https://github.com/user-attachments/assets/1775f25e-44e8-4184-80c9-c497cdc455f5" />
+<img width="397" height="503" alt="Screenshot 2026-10-22 at 2 43 05 PM" src="https://github.com/user-attachments/assets/517bdc0a-326b-4f6e-8e8d-6902a64e3b5c" />
+<img width="400" height="397" alt="Screenshot 2026-10-22 at 2 26 19 PM" src="https://github.com/user-attachments/assets/4e7f8315-14b1-46f0-8ef7-0ae23d8e7753" />
+<img width="937" height="286" alt="Screenshot 2026-10-22 at 4 45 10 PM" src="https://github.com/user-attachments/assets/f0ed8e46-0990-43d3-a02c-420b6048339c" />
+<img width="957" height="299" alt="Screenshot 2026-10-22 at 4 44 01 PM" src="https://github.com/user-attachments/assets/f25fc6c2-966a-46db-8db1-e6e0b99fe6f0" />
+<img width="1440" height="900" alt="Screenshot 2026-10-22 at 2 30 52 PM" src="https://github.com/user-attachments/assets/d7654f06-d963-444a-9f51-8d474eff34a2" />
+<img width="753" height="502" alt="Screenshot 2026-10-22 at 2 42 17 PM" src="https://github.com/user-attachments/assets/91f07b68-1d39-492e-9d91-c3aa6fcab02a" />
+<img width="31" height="48" alt="Screenshot 2026-10-22 at 2 42 40 PM" src="https://github.com/user-attachments/assets/ba23ed72-5466-4fe0-84ec-cf2ca78dc957" />
+<img width="957" height="409" alt="Screenshot 2026-10-22 at 4 41 41 PM" src="https://github.com/user-attachments/assets/4b1ae1eb-5004-439d-bb5d-887174dec4a7" />
+<img width="955" height="186" alt="Screenshot 2026-10-22 at 5 35 52 PM" src="https://github.com/user-attachments/assets/e2c2e790-87f9-487a-bff0-e151b888aa9d" />
+
+<img width="952" height="531" alt="Screenshot 2026-10-22 at 4 33 42 PM" src="https://github.com/user-attachments/assets/41d9cb3a-c72d-424f-bcc1-339a76b59004" />
+<img width="555" height="187" alt="Screenshot 2026-10-22 at 5 33 45 PM" src="https://github.com/user-attachments/assets/117f4fd3-4807-45c6-b27f-ba7c704d6e63" />
+
+<img width="328" height="326" alt="Screenshot 2026-10-22 at 2 26 19 PM" src="https://github.com/user-attachments/assets/574db358-d62d-4aca-849b-a84d0fafc131" />
+
+<img width="462" height="207" alt="Screenshot 2026-10-22 at 1 09 37 PM" src="https://github.com/user-attachments/assets/e769620d-9df0-44a4-8258-4838b4d7d2e8" />
+
 
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
