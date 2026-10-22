@@ -1,4 +1,3 @@
-<img width="536" height="363" alt="Screenshot 2026-10-22 at 2 39 52 PM" src="https://github.com/user-attachments/assets/662cf23d-84f4-4cd5-873b-187724e28687" />
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
